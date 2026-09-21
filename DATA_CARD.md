@@ -35,9 +35,3 @@ The dataset exists to demonstrate the full machine-learning pipeline, not to ser
 - no expert annotation protocol
 - limited phonological alternation handling
 - limited derivational morphology
-
-## Responsible use
-
-Do not describe this dataset as a large Bengali corpus or as an expert-annotated gold standard.
-
-For stronger academic work, construct or use a validated corpus and document annotation guidelines and inter-annotator agreement.
