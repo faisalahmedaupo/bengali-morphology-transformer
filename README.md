@@ -298,8 +298,6 @@ It demonstrates:
 - CI/CD basics
 - research documentation
 
-For a Master's application, pair this repository with a short project report containing your own experimental results, error analysis, and discussion of limitations.
-
 ## References
 
 - Vaswani, A. et al. (2017). *Attention Is All You Need.*
@@ -312,8 +310,6 @@ For a Master's application, pair this repository with a short project report con
 
 - GitHub: `https://github.com/faisalahmedaupo`
 - Email: `official.faisalahmedaupo@gmail.com`
-
-Replace the placeholders before publishing.
 
 ## License
 
