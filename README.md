@@ -2,7 +2,6 @@
 
 **A reproducible NLP research project for Bengali morphological segmentation using a character-level Transformer.**
 
-[![CI](https://github.com/faisalahmedaupo/bengali-morphology-transformer/actions/workflows/tests.yml/badge.svg)](https://github.com/faisalahmedaupo/bengali-morphology-transformer/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
